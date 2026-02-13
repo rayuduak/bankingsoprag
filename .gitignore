@@ -1,7 +1,12 @@
 .env
-/.venv
+.venv/
 __pycache__/
-/.pytest_cache
-/.vscode/
+.pytest_cache/
+.vscode/
 node_modules/
+frontend/node_modules/
 frontend/dist/
+chroma_db/
+uploaded_files/
+*.pyc
+.DS_Store
