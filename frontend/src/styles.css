@@ -1,0 +1,20 @@
+:root{
+  --citi-blue:#0057b7;
+  --citi-red:#e51c23;
+  --bg:#f6f8fb;
+  --muted:#6b7280;
+}
+body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:var(--bg); margin:0}
+.app-root{max-width:980px;margin:24px auto;padding:18px}
+.app-header{display:flex;align-items:center;gap:12px;padding:12px 0}
+.brand-logo{height:42px}
+.brand-title{color:var(--citi-blue);font-size:20px;margin:0}
+.app-main{background:#fff;padding:20px;border-radius:8px;box-shadow:0 1px 4px rgba(16,24,40,0.06);}
+.query-panel{display:flex;gap:8px;align-items:center}
+.query-input{flex:1;padding:10px 12px;border:1px solid #e6e9ef;border-radius:6px}
+.btn-primary{background:var(--citi-blue);color:#fff;padding:10px 14px;border:none;border-radius:6px;cursor:pointer}
+.btn-primary:hover{opacity:0.95}
+.results{margin-top:18px}
+.answer-box{background:#f3f6fb;padding:12px;border-radius:6px}
+.sources{color:var(--muted)}
+.app-footer{margin-top:12px;color:var(--muted);font-size:13px}
