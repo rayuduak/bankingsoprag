@@ -88,3 +88,8 @@ OLLAMA_MODEL=gemma3:latest
 REDIS_HOST=localhost
 REDIS_PORT=6379
 ```
+## 7. Screenshot
+
+<img width="1734" height="882" alt="image" src="https://github.com/user-attachments/assets/df1d5d6a-900f-4a20-9998-e07e3dea5f41" />
+
+<img width="1679" height="882" alt="image" src="https://github.com/user-attachments/assets/874b3e55-ba1e-4685-9745-5ee7706248a9" />
