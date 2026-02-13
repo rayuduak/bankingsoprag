@@ -1,4 +1,4 @@
-Project is about a chatgpt stype front end and back end to do RAG on given url document or uploaded document.
+Project is about a chatgpt style front end and back end to do RAG on given url document or uploaded document.
 Using localhost OLLAMA and gemma3:latest model in backend fastapi and uvicorn.
 front end is html, css, js and bootstrap and vite etc.
 using citibank them and its logo as front end theme.
