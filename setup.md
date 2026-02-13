@@ -93,3 +93,6 @@ REDIS_PORT=6379
 <img width="1734" height="882" alt="image" src="https://github.com/user-attachments/assets/df1d5d6a-900f-4a20-9998-e07e3dea5f41" />
 
 <img width="1679" height="882" alt="image" src="https://github.com/user-attachments/assets/874b3e55-ba1e-4685-9745-5ee7706248a9" />
+
+<img width="789" height="523" alt="image" src="https://github.com/user-attachments/assets/0568075a-3f92-43f6-a52e-a801c444d5bd" />
+
